@@ -22,8 +22,8 @@ If you build GeoTools, GeoServer, or GeoWebCache with maven locally for other   
 
 #. Clone the repository:: 
 
-     % git clone git://github.com/opengeo/suite.git suite
-     % cd suite
+     % git clone git://github.com//fedesanchez/suite-3.1.git suite-3.1
+     % cd suite-3.1
 
 #. Initialize submodule dependencies::
 
@@ -117,8 +117,8 @@ Repository Setup
 The suite repository contains submodules that pull in external dependencies. 
 After cloning the repository you must initialize the submodules::
 
-  % git clone git://github.com/opengeo/suite.git suite
-  % cd suite
+  % git clone git://github.com//fedesanchez/suite-3.1.git suite-3.1
+  % cd suite-3.1
   % git submodule init
   % git submodule sync
   % git submodule update
